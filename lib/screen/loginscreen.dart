@@ -67,7 +67,7 @@ class LoginPage extends StatelessWidget {
                   child: Text(
                     'Login',
                     textAlign: TextAlign.center,
-                    style: TextStyle(color: Colors.white, fontSize: 20),
+                    style: TextStyle(color: Colors.white, fontSize: 21),
                   ),
                 ),
               ),
